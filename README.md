@@ -1,6 +1,13 @@
 # Medium SDK Silex Service Provider
 Silex Service Provider, provider to connect to the Medium Api.
 
+# Install
+It's simple! Just execute command on your terminal:
+
+```
+composer require codeexperts/medium-sdk-silex-provider dev-master
+```
+
 # How to use
 
 Simple:
