@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.5.0",
         "jonathantorres/medium-sdk": "^0.2.0",
-        "pimple/pimple": ">=2.1,<4",
+        "pimple/pimple": ">=2.1,<4"
     },    
     "require-dev": {
         "phpunit/phpunit": "4.8.*"
