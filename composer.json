@@ -1,0 +1,27 @@
+{
+    "name": "codeexperts/medium-sdk-silex-provider",
+    "description": "Provider to connect with Medium API",
+    "type": "silex-provider",
+    "keywords": ["medium", "api", "sdk", "silex-provider"],
+    "require": {
+        "php": ">=5.5.0",
+        "jonathantorres/medium-sdk": "^0.2.0",
+        "pimple/pimple": "^3.0"
+    },    
+    "require-dev": {
+        "phpunit/phpunit": "4.8.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nando Kstro Net",
+            "email": "nandokstro@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "CodeExperts\\" : "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
