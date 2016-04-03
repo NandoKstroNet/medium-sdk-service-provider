@@ -1,11 +1,11 @@
 <?php 
 namespace CodeExperts\Provider;
 
-use Pimple\Container;
-use Pimple\ServiceProviderInterface;
+use \Pimple\Container;
+use \Pimple\ServiceProviderInterface;
 use JonathanTorres\MediumSdk\Medium;
 
-class MediumServiceProvider implements ServiceProviderInterface
+class MediumSdkServiceProvider implements ServiceProviderInterface
 {
 	/**
 	 * Register the Medium API SDK Service

@@ -6,7 +6,7 @@
     "require": {
         "php": ">=5.5.0",
         "jonathantorres/medium-sdk": "^0.2.0",
-        "pimple/pimple": "^3.0"
+        "pimple/pimple": ">=2.1,<4",
     },    
     "require-dev": {
         "phpunit/phpunit": "4.8.*"
@@ -15,7 +15,8 @@
     "authors": [
         {
             "name": "Nando Kstro Net",
-            "email": "nandokstro@gmail.com"
+            "email": "nandokstro@gmail.com",
+            "homepage": "http://codeexperts.com.br"
         }
     ],
     "autoload": {
