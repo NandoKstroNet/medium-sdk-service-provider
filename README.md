@@ -1,2 +1,4 @@
-# medium-sdk-service-provider
-Silex Service Provider to Medium SDK.
+# Medium SDK Silex Service Provider
+Provider to connect in Medium API.
+
+# How to use
