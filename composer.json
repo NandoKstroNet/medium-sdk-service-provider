@@ -3,6 +3,7 @@
     "description": "Provider to connect with Medium API",
     "type": "silex-provider",
     "keywords": ["medium", "api", "sdk", "silex-provider"],
+    "version": "0.1.0",
     "require": {
         "php": ">=5.5.0",
         "jonathantorres/medium-sdk": "^0.2.0",
